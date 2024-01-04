@@ -7,7 +7,7 @@ target-version = ['py37']
 
 [tool.coverage.run]
 branch = true
-source = ['django_cryptography']
+source = ['django_cryptography'] 
 
 [tool.coverage.report]
 exclude_lines = [
